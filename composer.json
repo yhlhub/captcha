@@ -1,0 +1,14 @@
+{
+    "name": "yhlhub/captcha",
+    "description": "111",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yhl",
+            "email": "yinhongliang0414@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
